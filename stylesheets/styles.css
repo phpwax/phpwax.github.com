@@ -1,0 +1,14 @@
+body{
+  font-family: helvetica,arial;
+  text-align: center;
+}
+
+img{
+  margin: 20% 0 20px;
+  border: none;
+}
+
+a{
+  color: #000;
+  text-decoration: none;
+}
